@@ -1,0 +1,1 @@
+<seelog><outputs formatid="main"><filter levels="info,debug,critical,error"><file path="D:/Workspaces/go/src/agent/agent.log"></file></filter><filter levels="debug,error"><file path="D:/Workspaces/go/src/agent/agent.log"></file></filter></outputs><formats><format id="main" format="%Date/%Time [%LEV] %Msg%n"></format></formats></seelog>

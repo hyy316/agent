@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources><string name="GUID">hp_dOkwjgLIXU-GTFowiFpADb06PdsLstuu4KxtR5LE=</string><string name="installTime">2017-05-17 14:19:37</string><string name="version">V1.0.1</string></resources>
